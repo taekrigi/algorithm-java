@@ -10,12 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class BinaryTreeInOrderTraversalTests {
 
-    private BinaryTreeInOrderTraversal binaryTreeInOrderTraversal;
-
-    @BeforeEach
-    public void test() {
-        binaryTreeInOrderTraversal = new BinaryTreeInOrderTraversal();
-    }
+    private BinaryTreeInOrderTraversal binaryTreeInOrderTraversal = new BinaryTreeInOrderTraversal();
 
     @Test
     public void case1() {
