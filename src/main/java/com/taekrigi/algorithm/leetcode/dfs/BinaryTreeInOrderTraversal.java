@@ -24,20 +24,20 @@ public class BinaryTreeInOrderTraversal {
 
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> traversalOrder = new LinkedList<>();
-        traverseByInOrder(traversalOrder, root);
+        dfs(traversalOrder, root);
         return traversalOrder;
     }
 
-    private void traverseByInOrder(List<Integer> traversalOrder, TreeNode treeNode) {
+    private void dfs(List<Integer> traversalOrder, TreeNode treeNode) {
         if (treeNode == null) {
             return;
         }
         if (treeNode.left != null) {
-            traverseByInOrder(traversalOrder, treeNode.left);
+            dfs(traversalOrder, treeNode.left);
         }
         traversalOrder.add(treeNode.val);
         if (treeNode.right != null) {
-            traverseByInOrder(traversalOrder, treeNode.right);
+            dfs(traversalOrder, treeNode.right);
         }
     }
 }
