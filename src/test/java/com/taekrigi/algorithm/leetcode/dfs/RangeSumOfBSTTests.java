@@ -54,9 +54,4 @@ public class RangeSumOfBSTTests {
 
         assertEquals(sum, 23);
     }
-
-    @Test
-    public void case3() {
-
-    }
 }
