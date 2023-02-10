@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @see <a href="https://leetcode.com/problems/range-sum-of-bst/description/">leetcode</a>
+ * @see <a href="https://leetcode.com/problems/range-sum-of-bst/">leetcode</a>
  * @see <a href="https://en.wikipedia.org/wiki/Binary_search_tree">wikipedia</a>
  */
 public class RangeSumOfBST {
