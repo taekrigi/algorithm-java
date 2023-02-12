@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class ConcatenationOfArrayTests {
 
-    private final ConcatenationOfArray concatenationOfArray = new ConcatenationOfArray();
+    private static final ConcatenationOfArray concatenationOfArray = new ConcatenationOfArray();
 
     @Test
     public void case1() {

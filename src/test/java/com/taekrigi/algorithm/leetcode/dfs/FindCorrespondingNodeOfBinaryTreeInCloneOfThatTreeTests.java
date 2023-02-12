@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FindCorrespondingNodeOfBinaryTreeInCloneOfThatTreeTests {
 
-    private FindCorrespondingNodeOfBinaryTreeInCloneOfThatTree findCorrespondingNodeOfBinaryTreeInCloneOfThatTree =
+    private static final FindCorrespondingNodeOfBinaryTreeInCloneOfThatTree findCorrespondingNodeOfBinaryTreeInCloneOfThatTree =
             new FindCorrespondingNodeOfBinaryTreeInCloneOfThatTree();
 
 

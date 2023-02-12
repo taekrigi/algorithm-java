@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class RangeSumOfBSTTests {
 
-    private RangeSumOfBST rangeSumOfBST = new RangeSumOfBST();
+    private static final RangeSumOfBST rangeSumOfBST = new RangeSumOfBST();
 
     @Test
     public void case1() {

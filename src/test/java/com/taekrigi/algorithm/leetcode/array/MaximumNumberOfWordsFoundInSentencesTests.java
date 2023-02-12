@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MaximumNumberOfWordsFoundInSentencesTests {
 
-    private MaximumNumberOfWordsFoundInSentences maximumNumberOfWordsFoundInSentences
+    private static final MaximumNumberOfWordsFoundInSentences maximumNumberOfWordsFoundInSentences
             = new MaximumNumberOfWordsFoundInSentences();
 
     @Test

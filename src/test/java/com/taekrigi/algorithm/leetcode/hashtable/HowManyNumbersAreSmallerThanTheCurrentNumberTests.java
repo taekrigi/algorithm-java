@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class HowManyNumbersAreSmallerThanTheCurrentNumberTests {
 
-    private HowManyNumbersAreSmallerThanTheCurrentNumber howManyNumbersAreSmallerThanTheCurrentNumber
+    private static final HowManyNumbersAreSmallerThanTheCurrentNumber howManyNumbersAreSmallerThanTheCurrentNumber
             = new HowManyNumbersAreSmallerThanTheCurrentNumber();
 
     @Test

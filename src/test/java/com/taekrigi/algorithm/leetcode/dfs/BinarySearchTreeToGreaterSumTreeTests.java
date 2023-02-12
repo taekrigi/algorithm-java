@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertNull;
 
 public class BinarySearchTreeToGreaterSumTreeTests {
 
-    private BinarySearchTreeToGreaterSumTree binarySearchTreeToGreaterSumTree = new BinarySearchTreeToGreaterSumTree();
+    private static final BinarySearchTreeToGreaterSumTree binarySearchTreeToGreaterSumTree = new BinarySearchTreeToGreaterSumTree();
 
     @Test
     public void case1() {
