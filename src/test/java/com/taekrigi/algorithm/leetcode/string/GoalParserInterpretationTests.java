@@ -1,6 +1,5 @@
-package com.taekrigi.algorithm.leetcode.goal;
+package com.taekrigi.algorithm.leetcode.string;
 
-import com.taekrigi.algorithm.leetcode.string.GoalParserInterpretation;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
