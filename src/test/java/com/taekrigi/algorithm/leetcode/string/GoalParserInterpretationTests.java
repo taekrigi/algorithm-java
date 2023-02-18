@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class GoalParserInterpretationTests {
 
-    private static GoalParserInterpretation goalParserInterpretation = new GoalParserInterpretation();
+    private static final GoalParserInterpretation goalParserInterpretation = new GoalParserInterpretation();
 
     @Test
     public void case1() {

@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CountItemsMatchingARuleTests {
 
-    private static CountItemsMatchingARule countItemsMatchingARule = new CountItemsMatchingARule();
+    private static final CountItemsMatchingARule countItemsMatchingARule = new CountItemsMatchingARule();
 
     @Test
     public void case1() {
