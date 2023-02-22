@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @see <a href="hhttps://school.programmers.co.kr/learn/courses/30/lessons/42576">programmers</a>
+ * @see <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576">programmers</a>
  */
 public class 완주하지못한선수 {
 
