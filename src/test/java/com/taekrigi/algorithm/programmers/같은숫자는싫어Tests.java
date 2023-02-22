@@ -1,11 +1,9 @@
 package com.taekrigi.algorithm.programmers;
 
 import com.taekrigi.algorithm.programmers.스택.같은숫자는싫어;
-import com.taekrigi.algorithm.programmers.해시.완주하지못한선수;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class 같은숫자는싫어Tests {
 
