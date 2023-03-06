@@ -1,4 +1,4 @@
-package com.taekrigi.algorithm.programmers;
+package com.taekrigi.algorithm.programmers.해시;
 
 import com.taekrigi.algorithm.programmers.해시.폰켓몬;
 import org.junit.jupiter.api.Test;

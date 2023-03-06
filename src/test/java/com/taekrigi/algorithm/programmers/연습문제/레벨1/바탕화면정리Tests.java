@@ -1,4 +1,4 @@
-package com.taekrigi.algorithm.programmers;
+package com.taekrigi.algorithm.programmers.연습문제.레벨1;
 
 import com.taekrigi.algorithm.programmers.연습문제.레벨1.바탕화면정리;
 import org.junit.jupiter.api.Test;

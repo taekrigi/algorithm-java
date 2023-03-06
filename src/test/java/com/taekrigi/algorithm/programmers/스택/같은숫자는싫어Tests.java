@@ -1,4 +1,4 @@
-package com.taekrigi.algorithm.programmers;
+package com.taekrigi.algorithm.programmers.스택;
 
 import com.taekrigi.algorithm.programmers.스택.같은숫자는싫어;
 import org.junit.jupiter.api.Test;
